@@ -19,6 +19,9 @@ More simpler string thangs. BTW I really dig f-strings. really dig.
 https://stackoverflow.com/questions/20457038/how-to-round-to-2-decimals-with-python
 The initial output kept dropping off the final zero in cases where the dollar amount rounded to a 2nd decimal place 0. Hit that problem with the ol' {f:.2}. Problem solver. 
 
+number = 3.1415926
+print(f"The number rounded to two decimal places is {number:.2f}")
+
 Other things I read/watched for fun or ADHD:
 https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c
 
