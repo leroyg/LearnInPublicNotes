@@ -1,0 +1,4 @@
+Week ending 10 APR
+
+Learned:
+1- Mersenne Twister! The random() function in python uses this. http://www.math.sci.hiroshima-u.ac.jp/m-mat/MT/emt.html
