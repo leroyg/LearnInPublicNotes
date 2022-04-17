@@ -12,3 +12,10 @@ Learned:
 And some more details here https://www.paulirish.com/2010/the-protocol-relative-url/
 
 It took me a very long time to trouble shoot, BUT I felt the neurons connecting. Love it.
+
+5 - used setTimemout() to delay the ending of my confetti upon completing the step slider. It is async so I just need to make sure I am aware of the rest of the function so I don't break it.
+
+6 - I successfully troubleshot a non-responsive slider indicator color fill. It was because inside my function I mistakenly referred to my variable as active when it was named actives. 
+
+Successes:
+Updated my portfolio site. https://www.leroygardner.dev/
