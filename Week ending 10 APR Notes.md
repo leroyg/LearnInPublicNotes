@@ -19,3 +19,16 @@ It took me a very long time to trouble shoot, BUT I felt the neurons connecting.
 
 Successes:
 Updated my portfolio site. https://www.leroygardner.dev/
+5 - Django things...it is very cool I can hit localhost.../api/things and get back a json objects api routes
+
+6- Setting up querysets is very cool too, and then using serializers to manipulate the data returned on the queryset
+
+Tech:
+JWT tokens
+Postman!!! Saved some URLs as a variable.
+
+Concepts:
+Authentication using DRF (https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication) and https://github.com/jazzband/djangorestframework-simplejwt, Authorization
+
+Questions:
+Learn more about this __all__ convention in python/django 
